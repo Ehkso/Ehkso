@@ -11,5 +11,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+More stuff for adding l8r maybe:
+https://github-readme-streak-stats.herokuapp.com/demo/
+https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes.md
+
+https://github.com/anuraghazra/github-readme-stats
+https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+https://github-readme-stats.vercel.app/api?username=ehkso&show_icons=true&theme=radical
+https://github-readme-stats.vercel.app/api/top-langs/?username=ehkso&layout=compact&theme=dark
 -->
-## Hi there 👋
+<!-- ## Hi there 👋 -->
+
+## 👽
+![Stats](https://github-readme-stats.vercel.app/api?username=ehkso&show_icons=true&theme=merko&rank_icon=github&include_all_commits=True)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehkso&layout=compact&theme=merko)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
