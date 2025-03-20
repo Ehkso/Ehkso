@@ -25,6 +25,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=ehkso&layout=comp
 <!-- ## Hi there 👋 -->
 
 ## 👽
+TODO: make pretty
 ![Stats](https://github-readme-stats.vercel.app/api?username=ehkso&show_icons=true&theme=merko&rank_icon=github&include_all_commits=True) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ehkso&theme=merko&hide_border=false) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehkso&layout=compact&theme=merko) <br/>
