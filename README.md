@@ -46,4 +46,4 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=ehkso&layout=comp
 TODO: make pretty <br/>
 ![Stats](https://github-readme-stats.vercel.app/api?username=ehkso&show_icons=true&theme=highcontrast&rank_icon=github&include_all_commits=True) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehkso&layout=compact&theme=highcontrast) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ehkso&theme=midnight-purple&hide_border=false) <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ehkso&theme=merko&hide_border=false) <br/>
