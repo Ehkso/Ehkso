@@ -43,6 +43,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=ehkso&layout=comp
 ⠀⠀⠀⠸⡀⠈⠇⣸⠏⣇⠀⠀⠤⠀⠀⣸⡇⠀⠀⠀⠀<br/>
 ⠀⠀⠀⠀⣿⡀⢨⡟⠀⡗⠀⠀⢀⠀⠀⢺⡇⠀⠇⠀⠀<br/>
 ⠀⠀⠀⠀⠈⠺⡽⠁⠀⠧⠬⠤⠤⠄⠄⠸⢇⣄⠇⠀⠀<br/>
+I've been slowly moving off this platform, but hello! I hope you're having a good day.<br/>
 TODO: make pretty <br/>
 ![Stats](https://github-readme-stats.vercel.app/api?username=ehkso&show_icons=true&theme=highcontrast&rank_icon=github&include_all_commits=True) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehkso&layout=compact&theme=highcontrast) <br/>
