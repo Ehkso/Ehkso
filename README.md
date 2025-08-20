@@ -21,6 +21,7 @@ https://github.com/anuraghazra/github-readme-stats
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 https://github-readme-stats.vercel.app/api?username=ehkso&show_icons=true&theme=radical
 https://github-readme-stats.vercel.app/api/top-langs/?username=ehkso&layout=compact&theme=dark
+![](https://github-readme-streak-stats.herokuapp.com/?user=ehkso&theme=merko&hide_border=false) <br/>
 -->
 <!-- ## Hi there 👋 -->
 
@@ -43,8 +44,8 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=ehkso&layout=comp
 ⠀⠀⠀⠸⡀⠈⠇⣸⠏⣇⠀⠀⠤⠀⠀⣸⡇⠀⠀⠀⠀<br/>
 ⠀⠀⠀⠀⣿⡀⢨⡟⠀⡗⠀⠀⢀⠀⠀⢺⡇⠀⠇⠀⠀<br/>
 ⠀⠀⠀⠀⠈⠺⡽⠁⠀⠧⠬⠤⠤⠄⠄⠸⢇⣄⠇⠀⠀<br/>
-I've been slowly moving off this platform, but hello! I hope you're having a good day.<br/>
+<br/>I've been slowly moving off this platform, but hello! I hope you're having a good day.<br/><br/>
 TODO: make pretty <br/>
 ![Stats](https://github-readme-stats.vercel.app/api?username=ehkso&show_icons=true&theme=highcontrast&rank_icon=github&include_all_commits=True) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehkso&layout=compact&theme=highcontrast) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ehkso&theme=merko&hide_border=false) <br/>
+
